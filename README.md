@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="750" src="https://files.catbox.moe/2twp3l.png?v=e3c0bc0f=true" alt="."/>
+  <img width="650" src="https://files.catbox.moe/2twp3l.png?v=e3c0bc0f=true" alt="."/>
 </p>
 
 <p align="center">
@@ -19,5 +19,5 @@ w2iㅤmostㅤofㅤtheㅤtime,ㅤplease.ㅤocelotㅤfanatic;ㅤiㅤloveㅤhimㅤd
 ![](https://komarev.com/ghpvc/?username=bbkazyaoi&label=VIEWS+++&color=752b2a)
 
  <p align="center">
-  <img width="750" src="https://files.catbox.moe/bof6i0.png?v=e3c0bc0f=true" alt="."/>
+  <img width="650" src="https://files.catbox.moe/bof6i0.png?v=e3c0bc0f=true" alt="."/>
 </p>
